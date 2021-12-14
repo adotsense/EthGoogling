@@ -1,0 +1,7 @@
+.env
+.venv
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+# IPython
+profile_default/
+ipython_config.py
